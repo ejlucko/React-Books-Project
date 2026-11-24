@@ -2,8 +2,6 @@
 
 A simple reading list app built with React. You can add books, rename them, and delete them. Data is stored in a local JSON file served by `json-server`, and all requests are made with Axios.
 
-Built while following Stephen Grider's React course on Udemy.
-
 ## Features
 
 - View a list of books, each with a cover image
